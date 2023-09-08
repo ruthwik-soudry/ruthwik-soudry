@@ -90,9 +90,3 @@
 
 <div align="center">
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ruthwik-soudry/ruthwik-soudry/output/snake.svg" alt="Snake animation" />
-
-###
