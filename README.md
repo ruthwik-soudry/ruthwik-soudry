@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ruthwik-northeastern.ruthwik-northeastern&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ruthwik-soudry.ruthwik-soudry&"  />
 </div>
 
 ###
@@ -93,6 +93,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ruthwik-northeastern/ruthwik-northeastern/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ruthwik-soudry/ruthwik-soudry/output/snake.svg" alt="Snake animation" />
 
 ###
